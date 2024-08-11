@@ -1,4 +1,5 @@
-com/swalih/springBootBlog/models/Blog.class
 com/swalih/springBootBlog/SpringBootBlogApplication.class
+com/swalih/springBootBlog/config/securityConfig.class
+com/swalih/springBootBlog/models/Blog.class
 com/swalih/springBootBlog/controller/BlogController.class
 com/swalih/springBootBlog/BlogRepository.class
